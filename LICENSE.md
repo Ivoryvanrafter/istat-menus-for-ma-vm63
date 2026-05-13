@@ -1,4 +1,4 @@
-
+Enhance iStat Menus for macOS with instant Automation for iStat Menus for macOS - file-indexing and privacy-protection, the #1 automation. Includes file-indexing and
 
 
 
